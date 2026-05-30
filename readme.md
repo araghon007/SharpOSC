@@ -1,6 +1,6 @@
-SharpOSC - OSC Library for .NET 9
+SharpOSC - OSC Library for .NET 10
 ===================================
 
 Read the original readme [here](https://github.com/ValdemarOrn/SharpOSC/blob/master/readme.md)!
 
-So I upgraded the project to .NET 9, refactored and reduced the GC allocations.
+I upgraded banzskyy's fork to .NET 10 and hopefully fixed a silly bug involving byte array and boolean handling.
